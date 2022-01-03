@@ -13,7 +13,7 @@ The performance improvements are achieved by:
 
 
 ## Content
-### Cleaned SnakeCLEF Metadata
+### Cleaned SnakeCLEF Data
 * [Cleaned training set](data/snake_clef2021_dataset/SnakeCLEF2021_train_metadata_cleaned.csv)
 * [Cleaned reduced training set](data/snake_clef2021_dataset/SnakeCLEF2021_train_metadata_mini.csv)
 * [Cleaned test set](data/snake_clef2021_dataset/SnakeCLEF2021_test_metadata_cleaned.csv)
