@@ -1,0 +1,2 @@
+epoch,train_loss,valid_loss,accuracy,top_3,f1_score,time
+None,None,None,0.690434,0.850345,0.593018,None
